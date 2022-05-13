@@ -1,0 +1,5 @@
+/*the cursor to change to a "pointer" whenever a user moves their
+mouse over a row*/
+#restaurant-table tr:hover{ cursor:pointer; }
+/*map is a specific height*/
+#leaflet { height: 400px; }
